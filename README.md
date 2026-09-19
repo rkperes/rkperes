@@ -1,16 +1,17 @@
-## Hi there 👋
+## Rafael Koch Peres
 
-<!--
-**rkperes/rkperes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior backend engineer, 8 years, Go throughout. Four of those at Uber, three
+as tech lead.
 
-Here are some ideas to get you started:
+I work on the services behind Uber's recruiting platform — compliance-sensitive,
+high-blast-radius systems where a bad deploy is visible to candidates the same
+day. Mostly migrations: Python → Go, Thrift → gRPC, and an ATS replatform I led
+a ten-engineer team through. I own things end to end, from the design doc to the
+3am page.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Interested in:** distributed systems, durable workflow orchestration,
+migrations of live systems that can't take downtime.
+
+- Site — [rkperes.dev](https://rkperes.dev)
+- Most of my current work lives on [GitLab](https://gitlab.com/rkperes)
+- rkperes@rkperes.dev
